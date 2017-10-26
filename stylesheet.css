@@ -1,0 +1,22 @@
+#table{
+	position: absolute;
+}
+.ScanChartClient {
+	position: absolute;
+}
+html
+  {
+    overflow:scroll;    
+  } 
+  #credentials
+  {
+  	color: red;
+  }
+
+  #logout{
+  	
+  	vertical-align: bottom;
+  }
+  .status{
+    color: green;
+  }
